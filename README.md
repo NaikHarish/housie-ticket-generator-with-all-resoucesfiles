@@ -12,6 +12,6 @@ After Generating Ticket it will check that the ticket is fulfilling the required
 
 If not then it will generate a error message, otherwise it will the Print ticket generated Successfully.
 
-How to run this project ?
-User can run the program in console also with the .jar file by following code:
+How to run this project ?  
+User can run the program in console also with the .jar file by following code:  
 java -jar HousieTicketGenerator.jar
