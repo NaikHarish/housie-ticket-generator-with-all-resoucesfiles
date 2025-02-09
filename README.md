@@ -1,1 +1,1 @@
-# housie-ticket-generator-with-all-resoucesfiles
+# housie-ticket-generator-with-all-resourcefiles
