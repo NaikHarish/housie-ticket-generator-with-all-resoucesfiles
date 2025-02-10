@@ -1,4 +1,4 @@
-package com.edu.housieticketgenerator;
+package housieticketgenerator;
 
 import java.util.Scanner;
 
