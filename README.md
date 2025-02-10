@@ -14,4 +14,4 @@ If not then it will generate a error message, otherwise it will the Print ticket
 
 How to run this project ?  
 User can run the program in console also with the .jar file by following code:  
-java -jar HousieTicketGenerator.jar
+java -jar HousieTicketGeneratorApp.jar
