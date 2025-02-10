@@ -1,4 +1,4 @@
-package com.edu.housieticketgenerator;
+package housieticketgenerator;
 
 public class Ticket {
     private final int[][] ticket;

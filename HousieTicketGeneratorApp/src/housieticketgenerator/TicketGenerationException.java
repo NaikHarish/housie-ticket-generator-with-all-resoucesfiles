@@ -1,4 +1,4 @@
-package com.edu.housieticketgenerator;
+package housieticketgenerator;
 
 public class TicketGenerationException extends Exception {
 
